@@ -20,7 +20,7 @@ My career has been dedicated to refining my expertise in low power design, floor
 <p align='center'>
    📫 How to reach me: <a href='mailto:ramapriyacg@outlook.com'>ramapriyacg@outlook.com</a>
 </p>
-
+[My resume](https://drive.google.com/file/d/17nkTT6igKQ0unj-mgdX1GtdAMcwB9jSF/view?usp=sharing)
 
 ### My passion
 My passion for semiconductor design extends beyond my professional work. I am deeply committed to
