@@ -94,6 +94,21 @@ This project was both humbling and uplifting for me as a lead, as the team excee
 Collaborate with fellow Methadologist.
 Scripted a Low power based solution for bus routing reducing power consumption in the chip.
 Interacting with design team to automate and fix the pain points and recognizing the PPA exploits.
+<br></br>
+<br></br>
+
+## Broadcom
+* Section level lead Network server chips:
+
+<img align="left" width="200" src="https://www.satellitetoday.com/wp-content/uploads/2014/04/XLP500-Series-300x273.png" />
+
+* Broadcom XLP MIPS network processors.
+* Was responsible for MESH topology interconnect implementation.
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 
 
@@ -101,10 +116,8 @@ Interacting with design team to automate and fix the pain points and recognizing
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library; it compares 2 images of the same size and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [CodeGym TelegramBot](https://github.com/codegymcommunity/codegym-telegrambot) - CodeGym Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
+*   [timing-server](https://github.com/riscvsi/ptServer2.git) - Created using python; created a timing server that can get any timing reports for n different runs. Has its own CLI very similar to primetime server.
+
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/romankh3/github-profile-views-counter">
