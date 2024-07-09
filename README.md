@@ -45,6 +45,59 @@ My passion for semiconductor design extends beyond my professional work. I am de
 *   GitHub/GitLab/Gerrit/Bitbucket.
 
 ## 🛠 Professional Engagements
+Here’s a glimpse into my professional engagements.
+## Intel
+Currently working in [Intel Technologies](https://www.linkedin.com/company/intel-corporation/mycompany/verification/) - as Design Engineer
+* Battlemage / Lunar lake :
+  
+<img align="left" width="200" src="https://www.profesionalreview.com/wp-content/uploads/2023/01/Intel-Lunar-Lake-contara-con-una-nueva-arquitectura-creada-desde-cero.jpg" />
+
+* Section-level Timing Signoff Lead / IP-level MV Signoff Lead.
+   * Both projects were running back-to-back.
+   * Developed a script to ensure proper placement and implementation of IP-level repeater planning.
+<br></br>
+
+* Panther Lake  :
+
+<img align="left" width="200" src="https://th.bing.com/th/id/OIP.I-We-81F9Rh3gS9btacbEgAAAA?rs=1&pid=ImgDetMain" />
+
+With the past experience of Meteor Lake, it should have been an easy task, but it presented tough challenges to close.
+Each SOC-facing block had voltage areas where the secondary power grid was so dense that it broke the tool.
+
+First-time implementation of Power Mux was used for controlling power delivery.
+<br></br>
+
+
+* Meteor Lake  :
+  
+<img align="left" width="200" src="https://www.notebookcheck.com/fileadmin/_processed_/5/8/csm_MeteorLake1_cb856a8dc2.jpg" />
+
+Intel’s big.LITTLE architecture in client chips. MV lead for Graphics IP signoff.
+
+Responsible for:
+Floorplan (FP) signoff of the MV blocks.
+MV planning, including control signals planning and port placement feedback.
+A significant challenge was automating the generation of feedthrough XML for feedthrough ports.
+
+
+* DG1 :
+<img align="left" width="200" src="https://cdn.wccftech.com/wp-content/uploads/2020/01/Intel-DG1-GPU-Discrete-Graphics-Card-Powered-by-Xe-Graphics-Architecture_7.jpg" />
+Intel’s second attempt at re-entering the discrete graphics card market.
+The project utilized Intel’s 10nm technology, completed on time by a team of freshers and recent college graduates (RCGs).
+The main challenge was that the average team experience was less than 2 years. Despite these overwhelming odds, the team delivered the project within the time and quality requirements.
+This project was both humbling and uplifting for me as a lead, as the team exceeded management’s expectations.
+
+## QUALCOMM
+* CAD Methadologist Qualcomm:
+
+<img align="left" width="200" src="https://mspoweruser.com/wp-content/uploads/2021/01/qualcomm-snapdragon.jpg" />
+Collaborate with fellow Methadologist.
+Scripted a Low power based solution for bus routing reducing power consumption in the chip.
+Interacting with design team to automate and fix the pain points and recognizing the PPA exploits.
+
+
+
+
 
 ### My opensource projects
 
