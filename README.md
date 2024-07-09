@@ -18,22 +18,33 @@ My career has been dedicated to refining my expertise in low power design, floor
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:ramapriyacg@outlook.com'>ramapriyacg@outlook.com</a>
 </p>
 
 
-### Key points
-*   Creator of [CodeGym Community](https://github.com/codegymcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   Creator and author of [romankh3](https://t.me/romankh3) Telegram channel. Subscribe to receive messages about my open-source activities.
-*   I write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+### My passion
+My passion for semiconductor design extends beyond my professional work. I am deeply committed to
+*   Learning
+      * I constantly seek to expand my knowledge and stay updated with the latest advancements in technology. This drive for continuous learning ensures that I remain at the forefront of the semiconductor industry.
+*   Teaching
+     * Sharing knowledge and mentoring the next generation of engineers is something I find incredibly rewarding. I enjoy teaching complex concepts and helping others grow in their careers.
+*   Exploring Technologies
+     * I am fascinated by new and emerging technologies. Whether it’s the latest in semiconductor processes or cutting-edge tools and techniques, I love exploring how these innovations can be applied to create better designs.
+*   Writing Articles
+      * I also enjoy writing articles and sharing insights about semiconductor design and technology. Through my writing, I aim to contribute to the broader engineering community and spark discussions about the future of our field.
+*Engage with Academic Institutions
+      * I teach students at a my college, helping them understand semiconductor concepts and develop the skills needed for successful careers in engineering.
+*AI
+      * I am fascinated by the potential of artificial intelligence to transform industries and create innovative solutions. I am actively learning about AI applications in semiconductor design and beyond.
 
 ## 🛠 Technology Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data JPA, Spring JDBC template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeler
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   Fusion Compiler / Multi-voltage / Primetime / Conformal
+*   TCL/PYTHON/SHELL languages
+*   MySQL, PostgreSQL
+*   Django Framework.
+*   GitHub/GitLab/Gerrit/Bitbucket.
+
+## 🛠 Professional Engagements
 
 ### My opensource projects
 
