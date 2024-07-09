@@ -117,10 +117,7 @@ Interacting with design team to automate and fix the pain points and recognizing
 ### My opensource projects
 
 *   [timing-server](https://github.com/riscvsi/ptServer2.git) - Created using python; created a timing server that can get any timing reports for n different runs. Has its own CLI very similar to primetime server.
+*   [Django Timing reports display](https://github.com/riscvsi/timingServer.git) - Created using python and django; publishing the timing reports as a HTML page.
+*  [Doit automation](https://github.com/riscvsi/ChipSutra.git) - created using python and doit library; versatile tool for automation. used this for running many parallel execution, generate reports and ECO.
+*  [Riscv core](https://github.com/riscvsi/riscvCoreSyntaCore1.git) - a simple code full chip riscv implementation along with steps to run them on innovus. this is for students to run their hands on simple IP's and understand the PnR concepts.
 
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
-   </a>
-</div>
